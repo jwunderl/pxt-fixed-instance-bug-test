@@ -1,4 +1,4 @@
 namespace mystarrynamespace {
     //% fixedInstance
-    const star = img`1`
+    export const star = img`1`
 }
