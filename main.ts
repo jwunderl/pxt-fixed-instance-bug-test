@@ -1,2 +1,4 @@
-//% fixedInstance
-const star = img`1`
+namespace mystarrynamespace {
+    //% fixedInstance
+    const star = img`1`
+}
